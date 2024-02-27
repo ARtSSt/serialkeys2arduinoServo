@@ -2,7 +2,7 @@ import serial
 import keyboard
 
 # Replace with the correct serial port
-port = "/dev/cu.usbmodem142201"
+port = "/dev/cu.usbmodem142201" # Change '/dev.cu.usbmodem142201' to your Arduino's port this can be found in the Arduino IDE under the board selector it will be the title.
 baudrate = 9600
 
 # Initialize serial connection
