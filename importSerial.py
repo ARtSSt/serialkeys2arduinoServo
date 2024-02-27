@@ -3,7 +3,7 @@ import keyboard
 import time
 
 # Connect to Arduino over serial port
-ser = serial.Serial('/dev/cu.usbmodem142201', 9600)  # Change 'COM3' to your Arduino's port
+ser = serial.Serial('/dev/cu.usbmodem142201', 9600)  # Change '/dev.cu.usbmodem142201' to your Arduino's port this can be found in the Arduino IDE under the board selector it will be the title.
 
 def send_command(command):
     ser.write(command.encode())
