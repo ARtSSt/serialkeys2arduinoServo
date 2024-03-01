@@ -1,7 +1,7 @@
 # serialkeys2arduinoServo
 
 This Repo is for use in UCSD VIS 147b as class support material
-
+**This is using traditional USB serial from a Arduino directly connected to a PC**
 In this repo we look at 2 ways to move a servo connected to USB, using the keyboard over the serial port. 
 
 Here we will wire a single servo motor with data to pin 9, ground and 5v on the arduino. 
