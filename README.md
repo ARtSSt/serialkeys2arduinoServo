@@ -13,7 +13,7 @@ Notes :
 - this was written for use with MacOS it may or may not work out of the box on windows(untested.)
 - on Mac the .sh and .py may need elevated permissions depending on your system settings. use the terminal navigate to the files via command line and use the 'sudo chmod +x' cmd to elevate the file permissions. 
 
-#Using a ESB32-WROOM-32 Module
+**Using a ESB32-WROOM-32 Module**
 
 Boards I used for testing this : ```https://www.amazon.com/dp/B08246MCL5?psc=1&ref=ppx_yo2ov_dt_b_product_details```
 
